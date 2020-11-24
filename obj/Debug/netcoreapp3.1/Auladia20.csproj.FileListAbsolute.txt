@@ -1,0 +1,13 @@
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\bin\Debug\netcoreapp3.1\Auladia20.exe
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\bin\Debug\netcoreapp3.1\Auladia20.deps.json
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\bin\Debug\netcoreapp3.1\Auladia20.runtimeconfig.json
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\bin\Debug\netcoreapp3.1\Auladia20.runtimeconfig.dev.json
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\bin\Debug\netcoreapp3.1\Auladia20.dll
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\bin\Debug\netcoreapp3.1\Auladia20.pdb
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\obj\Debug\netcoreapp3.1\Auladia20.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\obj\Debug\netcoreapp3.1\Auladia20.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\obj\Debug\netcoreapp3.1\Auladia20.AssemblyInfo.cs
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\obj\Debug\netcoreapp3.1\Auladia20.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\obj\Debug\netcoreapp3.1\Auladia20.dll
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\obj\Debug\netcoreapp3.1\Auladia20.pdb
+C:\Users\samsung\Desktop\Senai\Backend\Auladia20\obj\Debug\netcoreapp3.1\Auladia20.genruntimeconfig.cache
